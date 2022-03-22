@@ -1,7 +1,10 @@
-# Code de conduite contributeurs
+---
+title: Code de conduite contributeurs
+nav_order: 4
+description: 
+---
 
-```
-# Code de conduite _Contributor Covenant_
+# Code de conduite contributeurs
 
 ## Notre engagement
 
@@ -132,6 +135,3 @@ sur [https://www.contributor-covenant.org/translations][translations].
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
-```
-
-\
