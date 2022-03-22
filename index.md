@@ -6,21 +6,16 @@ permalink: /
 
 # 🧭 Bienvenue sur le guide de la communauté
 
-{: .fs-6 }
-
 Toutes les ressources pour aider les membres de la communauté à s'y retrouver dans l'organisation ANS.
 
 ***
 
-## Bien démarrer
+## Plan du site
 
-### Création d'un compte Github
-
-Les différents projets de l'ANS sur Github sont publics.
-Pour pouvoir être reconnu dans l'organisation, merci d'envoyer un mail à ans-forge@esante.gouv.fr
-
-###
-
-###
-
-***
+* [Bienvenue sur le guide de la communauté](index.md)
+* [Bien commencer](biencommencer.md)
+* [Standards de qualité](docs/standards.md)
+* [Code de conduite contributeurs](CODE_OF_CONDUCT.md)
+* [Projets] 
+    * [BOM](docs/bom.md)
+    * [Design System](docs/designsystem.md)
