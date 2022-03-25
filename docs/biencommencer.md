@@ -19,7 +19,7 @@ Github permet de diffuser publiquement :
 Les différents projets de l'ANS sur Github sont publics.
 Pour pouvoir modifier un projet via une pull request, il vous faut donc créer un compte. Ce compte doit refléter votre identité et avoir une connexion multifacteurs pour sécuriser les accès.
 
-Pour plus d'informations, suivre la documentation présente sur [cette page 🧭](docs/github.md)
+Pour plus d'informations, suivre la documentation présente sur [cette page 🧭](../docs/github.md)
 
 Pour pouvoir être reconnu dans l'organisation, merci d'envoyer un mail à `ans-forge@esante.gouv.fr`
 

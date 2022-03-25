@@ -8,8 +8,6 @@ description: >-
 
 # Standards de qualité
 
-{: .no\_toc }
-
 ## Standards de qualité logicielle 
 
 * Le code source est **ouvert**, y compris à la contribution externe.
