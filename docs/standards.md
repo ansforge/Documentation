@@ -6,11 +6,11 @@ description: >-
   https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr
 ---
 
-# 🔧 Standards de qualité
+# Standards de qualité
 
 {: .no\_toc }
 
-## Standards de qualité logicielle
+## Standards de qualité logicielle 
 
 * Le code source est **ouvert**, y compris à la contribution externe.
 * Le code est instrumenté par des **tests automatisés**.

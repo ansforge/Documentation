@@ -1,12 +1,10 @@
 ---
 title: BOM
-nav_order: 11
+nav_order: 101
 description: 
 ---
 
 # BOM
-
-## BOM
 
 Le «BOM» est une abréviation de «Bill Of Material». Il contient toutes les versions des dépendances que nous voulons utiliser dans nos projets. Le BOM est donc une sorte d’annuaire de versions de toutes les dépendances, ce qui permet de ne plus s’occuper des versions dans le reste de nos projets.
 

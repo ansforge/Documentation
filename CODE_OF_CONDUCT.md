@@ -4,7 +4,13 @@ nav_order: 4
 description: 
 ---
 
-# Code de conduite contributeurs
+# Politique de contribution aux logiciels libres de l’État
+
+Conformément à la Loi pour une République numérique du 7 octobre 2016, les codes sources sont des documents administratifs communicables et réutilisables. Dans le cas où il est possible de choisir une licence libre, le décret n° 2017-638 du 27 avril 2017 précise les familles de licences qui peuvent être utilisées. La liste détaillée des licences avec leurs versions est disponible sur le site data.gouv.fr.
+
+Document disponible sur https://www.numerique.gouv.fr/publications/politique-logiciel-libre/
+
+# Code de conduite contributeurs (Contributor Covenant)
 
 ## Notre engagement
 

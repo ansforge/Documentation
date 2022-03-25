@@ -1,10 +1,10 @@
 ---
 title: Design System
-nav_order: 10
+nav_order: 102
 description: 
 ---
 
-# 🔧 Projet Design System
+# Projet Design System
 
 ## Design System
 

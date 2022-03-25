@@ -4,7 +4,7 @@ nav_order: 1
 permalink: /
 ---
 
-# 🧭 Bienvenue sur le guide de la communauté
+# Bienvenue sur le guide de la communauté
 
 Toutes les ressources pour aider les membres de la communauté à s'y retrouver dans l'organisation ANS.
 
@@ -13,9 +13,10 @@ Toutes les ressources pour aider les membres de la communauté à s'y retrouver 
 ## Plan du site
 
 * [Bienvenue sur le guide de la communauté](index.md)
-* [Bien commencer](biencommencer.md)
+* [Bien commencer](docs/biencommencer.md)
 * [Standards de qualité](docs/standards.md)
 * [Code de conduite contributeurs](CODE_OF_CONDUCT.md)
-* [Projets] 
+* [Premiers pas sur Github](docs/github.md)
+* [Projets](docs/projets.md)
     * [BOM](docs/bom.md)
     * [Design System](docs/designsystem.md)
