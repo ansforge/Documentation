@@ -1,6 +1,6 @@
 ---
 title: Standards de qualité
-nav_order: 3
+nav_order: 5
 description: >-
   Basés sur
   https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr
