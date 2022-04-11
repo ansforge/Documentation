@@ -79,9 +79,9 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # Back to top link
 back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top_text: "Retourner en haut"
 
-footer_content: "Copyright &copy; 2017-2022 ANS. Distributed by an <a href=\"https://github.com/ansforge/Documentation/blob/main/LICENSE.txt\">MIT license.</a>"
+footer_content: "Copyright &copy; 2017-2022 ANS. Distribué avec une <a href=\"https://github.com/ansforge/Documentation/blob/main/LICENSE.txt\">licence MIT.</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
