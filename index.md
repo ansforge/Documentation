@@ -16,7 +16,7 @@ Toutes les ressources pour aider les membres de la communauté à s'y retrouver 
 * [Bien commencer](docs/biencommencer.md)
 * [Premiers pas sur Github](docs/github.md)
 * [Ouvrir le code source](/docs/codesource.md)
-* [Standards de qualité](docs/standards.md)
+* [Création de projet](docs/creationprojet.md)
 * [Code de conduite contributeurs](CODE_OF_CONDUCT.md)
 * [Projets](docs/projets.md)
     * [BOM](docs/bom.md)
