@@ -1,6 +1,6 @@
 ---
 title: Création d'un projet sur Github
-nav_order: 5
+nav_order: 3
 description: >-
   Basés sur
   https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr
@@ -8,13 +8,15 @@ description: >-
 
 # Création d'un projet sur Github
 
-Règle de nommage d'un projet :
+## Règle de nommage d'un projet 
  - Acronyme en début de nom pour identifier l'équipe :
 Exemple : PSC pour ProSantéConnect, SMT pour Serveur Multi-Terminologies
  - Nom de l'application ou explication de l'application de façon 'signifiante"
 Exemple : esignsante ou script-tnra-samu
 
-Plusieurs exigences doivent être respectées :
+Soit : psc-script-test-sandbox ou smt-ontostream
+
+## Exigences lors de la création d'un projet
 - Création d'un readme.md à la racine du projet qui décrit celui-ci.
 - Ajout d'une licence à la racine du projet (MIT, etalab-2.0... [https://www.data.gouv.fr/fr/pages/legal/licences/](https://www.data.gouv.fr/fr/pages/legal/licences/) )
 - Documenter l'installation si besoin : création d'un fichier install.md

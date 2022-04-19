@@ -1,6 +1,6 @@
 ---
 title: Code de conduite contributeurs
-nav_order: 6
+nav_order: 7
 description: 
 ---
 
