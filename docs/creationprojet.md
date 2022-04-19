@@ -10,9 +10,9 @@ description: >-
 
 ## Règle de nommage d'un projet 
  - Acronyme en début de nom pour identifier l'équipe :
-Exemple : PSC pour ProSantéConnect, SMT pour Serveur Multi-Terminologies
+> Exemple : PSC pour ProSantéConnect, SMT pour Serveur Multi-Terminologies
  - Nom de l'application ou explication de l'application de façon 'signifiante"
-Exemple : esignsante ou script-tnra-samu
+> Exemple : esignsante ou script-tnra-samu
 
 Soit : psc-script-test-sandbox ou smt-ontostream
 
