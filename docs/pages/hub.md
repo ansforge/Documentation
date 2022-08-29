@@ -1,24 +1,21 @@
 ---
 layout: default
-title: Documentation technique de l'API FHIR IRIS-DP
+title: Documentation 
 ---
 
 <div>
-    L'API FHIR d'IRIS-DP offre une solution clé en main permettant d'acéder aux données publiques de l'annuaire santé.
+   Documentation
 </div>
 <div>
-    Vous trouverez ci-dessous l'ensemble de la documentation permettant de démarrer un nouveau projet selon le langage de programmation souhaité.
-</div>
-<div class="mb-2">
-    Vous trouverez aussi des exemples de requêtes pour les différentes ressources mises à disposition.
+    Vous trouverez ci-dessous l'ensemble de la documentation permettant de démarrer un nouveau projet selon les règles de l'ANS
 </div>
 
 <div class="row">
     <div class="border rounded col p-2 m-1">
-        <h3>Implémentation de clients applicatifs</h3>
+        <h3>Documentation</h3>
         <hr aria-hidden="true">
         <div>
-            {% for item in site.data.menu.header[2].subfolderitems[0].subfolderitems %}
+            {% for item in site.data.menu.header[0].subfolderitems[0].subfolderitems %}
                 <div><a href="{{ item.url | relative_url }}">{{ item.title }}</a></div>
             {% endfor %}
         </div>
@@ -27,7 +24,7 @@ title: Documentation technique de l'API FHIR IRIS-DP
         <h3>Ressources FHIR</h3>
         <hr aria-hidden="true">
         <div>
-            {% for item in site.data.menu.header[2].subfolderitems[1].subfolderitems %}
+            {% for item in site.data.menu.header[0].subfolderitems[1].subfolderitems %}
                 <div><a href="{{ item.url | relative_url }}">{{ item.title }}</a></div>
             {% endfor %}
         </div>
@@ -36,21 +33,9 @@ title: Documentation technique de l'API FHIR IRIS-DP
         <h3>Techniques avancées</h3>
         <hr aria-hidden="true">
         <div>
-            {% for item in site.data.menu.header[2].subfolderitems[2].subfolderitems %}
+            {% for item in site.data.menu.header[0].subfolderitems[2].subfolderitems %}
                 <div><a href="{{ item.url | relative_url }}">{{ item.title }}</a></div>
             {% endfor %}
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="border rounded col p-2 m-1">
-        <h3><a id="usecase"></a>Cas d'utilisation</h3>
-        <hr aria-hidden="true">
-        <div>
-            {% for item in site.data.menu.header[3].subfolderitems %}
-                <div><a href="{{ item.url | relative_url }}">{{ item.title }}</a></div>
-            {% endfor %<a id="usecase"></a> }
         </div>
     </div>
 </div>
