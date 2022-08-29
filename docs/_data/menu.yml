@@ -8,13 +8,13 @@ header:
       - page: Démarrage
         url: /pages/hub.html
       - page: Création de projet
-        url: /pages/documentation/creationprojet.html
+        url: /pages/docs/creationprojet.html
       - page: Github
-        url: /pages/documentation/github.html
+        url: /pages/docs/github.html
       - page: Création de projet
-        url: /pages/documentation/creationprojet.html
+        url: /pages/docs/creationprojet.html
       - page: Ouvrir le code source
-        url: /pages/documentation/codesource.html
+        url: /pages/docs/codesource.html
   - title: Projets
     subfolderitems:
       - page: Liste des projets

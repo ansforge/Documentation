@@ -9,19 +9,10 @@ title: Documentation
 
 <div class="row">
     <div class="border rounded col p-2 m-1">
-        <h3>Quick start</h3>
+        <h3>Documentation</h3>
         <hr aria-hidden="true">
         <div>
-            {% for item in site.data.menu.header[1].subfolderitems[0].subfolderitems %}
-                <div><a href="{{ item.url | relative_url }}">{{ item.title }}</a></div>
-            {% endfor %}
-        </div>
-    </div>
-    <div class="border rounded col p-2 m-1">
-        <h3>Documentation<</h3>
-        <hr aria-hidden="true">
-        <div>
-            {% for item in site.data.menu.header[1].subfolderitems[1].subfolderitems %}
+            {% for item in site.data.menu.header[2].subfolderitems %}
                 <div><a href="{{ item.url | relative_url }}">{{ item.title }}</a></div>
             {% endfor %}
         </div>
@@ -30,7 +21,7 @@ title: Documentation
         <h3>Projets</h3>
         <hr aria-hidden="true">
         <div>
-            {% for item in site.data.menu.header[1].subfolderitems[2].subfolderitems %}
+            {% for item in site.data.menu.header[3].subfolderitems %}
                 <div><a href="{{ item.url | relative_url }}">{{ item.title }}</a></div>
             {% endfor %}
         </div>
