@@ -1,11 +1,13 @@
 ---
 layout: home
-title: Documentation
+title: Bienvenue sur le guide de la communauté
 ---
 
-## Bienvenue sur le guide de la communauté
-Toutes les ressources pour aider les membres de la communauté à s’y retrouver dans l’organisation Github ANS.
-Documentation sur <B>les bonnes pratiques de Github</B> développé et maintenu par l’Agence du Numérique en Santé ([ANS](https://esante.gouv.fr/)).
+## Documentation
+
+Ces Github pages hébergent la documentation sur <B>les bonnes pratiques de Github</B> des projets développés et maintenus par l’Agence du Numérique en Santé ([ANS](https://esante.gouv.fr/)).
+
+Toutes les ressources pour aider les membres de la communauté à s’y retrouver dans l’organisation Github ANS sont disponibles ici.
 
 [Démarrer](pages/quick-start/biencommencer.md){:class="btn  btn--style1"}
 

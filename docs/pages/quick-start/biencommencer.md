@@ -4,8 +4,6 @@ nav_order: 2
 description: 
 ---
 
-# Bien commencer
-
 ## Pourquoi Github ?
 
 Github permet de diffuser publiquement :

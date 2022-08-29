@@ -1,10 +1,8 @@
 ---
-title: Premiers pas sur Github
+title: 📝 Premiers pas sur Github
 nav_order: 5
 description: 
 ---
-
-# 📝 Premiers pas sur Github
 
 ## Github c'est quoi ?
 

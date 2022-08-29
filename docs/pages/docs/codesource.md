@@ -4,8 +4,6 @@ nav_order: 4
 description: 
 ---
 
-# Ouvrir le code source
-
 ## À quoi sert ce guide ?
 
 Ce guide sert à aider à définir une politique

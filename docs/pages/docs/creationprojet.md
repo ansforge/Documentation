@@ -6,8 +6,6 @@ description: >-
   https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr
 ---
 
-# Création d'un projet sur Github
-
 ## Règle de nommage d'un projet 
  - Acronyme en début de nom pour identifier l'équipe :
 > Exemple : PSC pour ProSantéConnect, SMT pour Serveur Multi-Terminologies

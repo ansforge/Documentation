@@ -14,12 +14,12 @@ header:
       - page: Création de projet
         url: /pages/documentation/creationprojet.html
       - page: Ouvrir le code source
-        url: /pages/documentation/starters/codesource.html
-  - title: Uses cases
+        url: /pages/documentation/codesource.html
+  - title: Projets
     subfolderitems:
-      - page: Projets
+      - page: Liste des projets
         url: /pages/projets/projets
-        title: Projets
+        title: Liste des projets
       - page: BOM
         url: /pages/projets/bom
         title: BOM
