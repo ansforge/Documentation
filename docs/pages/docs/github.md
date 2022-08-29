@@ -14,7 +14,7 @@ Dans tous les cas, vous pouvez demander de l'aide par email sur `ans-forge@esant
 
 * Inscrivez-vous sur le site de Github : [https://github.com/join](https://github.com/join)
 
-![](../assets/images/github-login.png)
+![](../../assets/images/github-login.png)
 
 * Valider votre compte Github en cliquant sur le lien reçu par email
 * Pour améliorer la sécurité, vous devez activer l'authentification double facteur
@@ -22,7 +22,7 @@ Dans tous les cas, vous pouvez demander de l'aide par email sur `ans-forge@esant
   * Dans la section "Two-factor authentication"
   * Faite "Enable two-factor authentication"
 
-![](../assets/images/two-factor.png)
+![](../../assets/images/two-factor.png)
 
 * Si vous êtes familier avec les applications mobile de type "Google Authenticator" faites : "**Set up using an app**." et suivre les étapes indiqués par Github.
 * Si vous ne comprenez pas le point ci-dessus, faites "**Set up using SMS"** et entrer votre numéro de mobile
@@ -42,6 +42,6 @@ Dans tous les cas, vous pouvez demander de l'aide par email sur `ans-forge@esant
 * Pour pouvoir merge les modifications, il faut faire une **"Create pull request"**
 * Modifier la description pour et cliquer sur le nouveau bouton **"Create pull request"**
 
-![](../assets/images/pullrequest.png)
+![](../../assets/images/pullrequest.png)
 
 * Un autre membre du projet est requis pour relire et accepter les modifications.
