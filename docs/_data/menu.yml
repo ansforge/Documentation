@@ -14,9 +14,9 @@ header:
       - page: Github
         url: /pages/docs/github.html
         title: Github
-      - page: Création de projet
-        url: /pages/docs/creationprojet.html
-        title: Création de projet
+      - page: Code de conduite
+        url: /pages/docs/codedeconduite.html
+        title: Code de conduite
       - page: Ouvrir le code source
         url: /pages/docs/codesource.html
         title: Ouvrir le code source
