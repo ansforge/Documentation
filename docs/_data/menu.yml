@@ -1,0 +1,36 @@
+header:
+  - title: Accueil
+    url: /
+  - title: Quick start
+    url: /pages/quick-start/biencommencer
+  - title: Documentation
+    subfolderitems:
+      - page: Démarrage
+        url: /pages/hub.html
+        title: Démarrage
+      - page: Création de projet
+        url: /pages/docs/creationprojet.html
+        title: Création de projet
+      - page: Github
+        url: /pages/docs/github.html
+        title: Github
+      - page: Création de projet
+        url: /pages/docs/creationprojet.html
+        title: Création de projet
+      - page: Ouvrir le code source
+        url: /pages/docs/codesource.html
+        title: Ouvrir le code source
+  - title: Projets
+    subfolderitems:
+      - page: Liste des projets
+        url: /pages/projets/projets
+        title: Liste des projets
+      - page: BOM
+        url: /pages/projets/bom
+        title: BOM
+      - page: Design system
+        url: /pages/projets/designsystem
+        title: Design system
+  - title: Site de l'ANS
+    url: https://esante.gouv.fr
+    external: true
