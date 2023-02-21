@@ -1,6 +1,8 @@
 header:
   - title: Accueil
     url: /
+  - title: Quick start
+    url: /pages/quick-start/biencommencer
   - title: Documentation
     subfolderitems:
       - page: Démarrage
@@ -29,8 +31,8 @@ header:
       - page: Design system
         url: /pages/projets/designsystem
         title: Design system
- - title: Tableau de bord
-    url: /pages/dashboard/indicateurs.html      
+  - title: Tableau de bord
+    url: /pages/dashboard/indicateurs.html 
   - title: Site de l'ANS
     url: https://esante.gouv.fr
     external: true
