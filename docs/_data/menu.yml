@@ -3,9 +3,6 @@ header:
     url: /
   - title: Documentation
     subfolderitems:
-      - page: Démarrage
-        url: /pages/hub.html
-        title: Démarrage
       - page: Ouvrir le code source
         url: /pages/docs/codesource.html
         title: Ouvrir le code source
@@ -18,17 +15,6 @@ header:
       - page: Code de conduite
         url: /pages/docs/codedeconduite.html
         title: Code de conduite
-  - title: Projets
-    subfolderitems:
-      - page: Liste des projets
-        url: /pages/projets/projets
-        title: Liste des projets
-      - page: BOM
-        url: /pages/projets/bom
-        title: BOM
-      - page: Design system
-        url: /pages/projets/designsystem
-        title: Design system
   - title: Tableau de bord
     url: /pages/dashboard/indicateurs.html 
   - title: Site de l'ANS

@@ -4,9 +4,7 @@ nav_order: 30
 description: 
 ---
 
-## Indicateurs
-
-Pour que les indicateurs s'affichent bien, il est nécessaire parfois de recharger la page plusieurs fois.
+Pour que les indicateurs s'affichent bien, il est parfois nécessaire de recharger la page plusieurs fois.
 
 | Projet                                    | Nombre d'anomalies ouvertes                                   |Pull requests                                   |Nombre de branches                                  |Releases                                   |Licence                                   |
 | ----------------------------------------- | ---------------------------------------- |---------------------------------------- |---------------------------------------- |---------------------------------------- |---------------------------------------- |
