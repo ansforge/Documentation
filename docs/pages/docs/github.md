@@ -1,6 +1,6 @@
 ---
 title: 📝 Premiers pas sur Github
-nav_order: 5
+nav_order: 1
 description: 
 ---
 

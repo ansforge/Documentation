@@ -1,13 +1,14 @@
 header:
   - title: Accueil
     url: /
-  - title: Quick start
-    url: /pages/quick-start/biencommencer
   - title: Documentation
     subfolderitems:
       - page: Démarrage
         url: /pages/hub.html
         title: Démarrage
+      - page: Ouvrir le code source
+        url: /pages/docs/codesource.html
+        title: Ouvrir le code source
       - page: Création de projet
         url: /pages/docs/creationprojet.html
         title: Création de projet
@@ -17,9 +18,6 @@ header:
       - page: Code de conduite
         url: /pages/docs/codedeconduite.html
         title: Code de conduite
-      - page: Ouvrir le code source
-        url: /pages/docs/codesource.html
-        title: Ouvrir le code source
   - title: Projets
     subfolderitems:
       - page: Liste des projets
@@ -31,6 +29,8 @@ header:
       - page: Design system
         url: /pages/projets/designsystem
         title: Design system
+ - title: Tableau de bord
+    url: /pages/dashboard/indicateurs.html      
   - title: Site de l'ANS
     url: https://esante.gouv.fr
     external: true

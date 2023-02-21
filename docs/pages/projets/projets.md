@@ -12,7 +12,6 @@ description:
 | ----------------------------------------- | ------------------------------------------------------------- |
 | [BOM](../projets/bom)                     | https://github.com/ansforge/                                  |
 | [Design System](../projets/designsystem)  | https://github.com/ansforge/DesignSystem                      |
-| [Documentation](../docs/biencommencer) | https://github.com/ansforge/Documentation                     |
 | db-esignsante-psc                         | https://github.com/ansforge/db-esignsante-psc                 |
 | esignsante                                | https://github.com/ansforge/esignsante                        |
 | Esignsante-psc                            | https://github.com/ansforge/esignsante-psc                    |
