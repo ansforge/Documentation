@@ -26,18 +26,3 @@ Certains prestataires de l'ANS peuvent avoir accès à notre Github pour contrib
 
 Pour plus d'informations sur la création d'un compte Github, suivre la documentation présente sur [cette page 🧭](../docs/github.md)
 
-## Aller plus loin
-
-<div class="row">
-    <div class="col col-12 col-md-3">
-        <svg class="svg-icon svg-edit" aria-hidden="true" focusable="false"><use xlink:href="{{ '/assets/ans/svg-icons/icon-sprite.svg#edit' | relative_url }}"></use></svg><br/>
-        <span  class="doc-section-title"><a href="./pages/hub.html">Documentation : </a></span>
-        Explorez la documentation.
-    </div>
-    <div class="col col-12 col-md-3">
-        <svg class="svg-icon svg-edit" aria-hidden="true" focusable="false"><use xlink:href="{{ '/assets/ans/svg-icons/icon-sprite.svg#folder' | relative_url }}"></use></svg><br/>
-        <span  class="doc-section-title"><a href="./pages/projets/projets.html#usecase">Les projets : </a></span>
-        Les projets de l'ANS
-    </div>
-
-</div>
