@@ -1,8 +1,6 @@
 header:
   - title: Accueil
     url: /
-  - title: Quick start
-    url: /pages/quick-start/biencommencer
   - title: Documentation
     subfolderitems:
       - page: Démarrage
