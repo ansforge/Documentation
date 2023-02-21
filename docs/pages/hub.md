@@ -12,7 +12,7 @@ title: Documentation
         <h3>Documentation</h3>
         <hr aria-hidden="true">
         <div>
-            {% for item in site.data.menu.header[2].subfolderitems %}
+            {% for item in site.data.menu.header[1].subfolderitems %}
                 <div><a href="{{ item.url | relative_url }}">{{ item.title }}</a></div>
             {% endfor %}
         </div>
@@ -21,7 +21,7 @@ title: Documentation
         <h3>Projets</h3>
         <hr aria-hidden="true">
         <div>
-            {% for item in site.data.menu.header[3].subfolderitems %}
+            {% for item in site.data.menu.header[2].subfolderitems %}
                 <div><a href="{{ item.url | relative_url }}">{{ item.title }}</a></div>
             {% endfor %}
         </div>

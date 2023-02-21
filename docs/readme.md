@@ -17,7 +17,6 @@ Pour rédiger de la documentation, vous pouvez créer / modifier les fichier .md
 Répertoires: 
 
 * documentation: documentation générale ressource par ressource
-* quick-start: section regroupant la documentation de démarrage rapide
 * use-cases: section qui contient des tutoriaux complets basés sur des uses cases
 
 # Menu 
