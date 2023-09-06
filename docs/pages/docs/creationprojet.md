@@ -6,14 +6,10 @@ description: >-
   https://doc.incubateur.net/communaute/gerer-sa-startup-detat-ou-de-territoires-au-quotidien/je-fais-des-choix-technologique/standards-de-qualite-beta.gouv.fr
 ---
 
-## Règle de nommage d'un projet 
- - Pour la convention de nommage et les bonne pratiques, il faut que le nom du dépôt ait une approche sémantique pour qu’il soit facilement retrouvé et compréhensible par n’importe qui : 
-* Descriptif 
-* Lisible
-* Cohérent
-* Contextuel
-* Extensible
-* Bref (court/succinct)
+## Règle de nommage d'un projet  
+
+Pour la convention de nommage et les bonne pratiques, il faut que le nom du dépôt ait une approche sémantique pour qu’il soit facilement retrouvé et compréhensible par n’importe qui : 
+Descriptif, Lisible, Cohérent, Contextuel, Extensible et Bref.
 
  - Acronyme en début de nom pour identifier l'équipe (Exemple : PSC pour ProSantéConnect, SMT pour Serveur Multi-Terminologies)
  - Nom de l'application ou explication de l'application de façon 'signifiante" en évitant les acronymes pour cette partie.
@@ -26,6 +22,7 @@ Par exemple :
 Il faut également ajouter une description au projet pour que n'importe qui comprenne en une ligne quel est le but du projet.
 
 ## Exigences lors de la création d'un projet
+
 - Création d'un readme.md à la racine du projet qui décrit celui-ci.
 - Ajout d'une licence à la racine du projet (MIT, etalab-2.0... [https://www.data.gouv.fr/fr/pages/legal/licences/](https://www.data.gouv.fr/fr/pages/legal/licences/) )
 - Documenter l'installation si besoin : création d'un fichier install.md
