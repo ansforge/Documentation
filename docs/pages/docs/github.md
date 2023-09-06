@@ -10,7 +10,7 @@ C'est un service en ligne qui contient le code source de plusieurs projets de l'
 
 Dans tous les cas, vous pouvez demander de l'aide par email sur `ans-forge@esante.gouv.fr`
 
-## Je créé un compte Github
+## Je crée un compte Github
 
 * Inscrivez-vous sur le site de Github : [https://github.com/join](https://github.com/join)
 

@@ -7,12 +7,23 @@ description: >-
 ---
 
 ## Règle de nommage d'un projet 
- - Acronyme en début de nom pour identifier l'équipe :
-> Exemple : PSC pour ProSantéConnect, SMT pour Serveur Multi-Terminologies
- - Nom de l'application ou explication de l'application de façon 'signifiante"
-> Exemple : esignsante ou script-tnra-samu
+ - Pour la convention de nommage et les bonne pratiques, il faut que le nom du dépôt ait une approche sémantique pour qu’il soit facilement retrouvé et compréhensible par n’importe qui : 
+* Descriptif 
+* Lisible
+* Cohérent
+* Contextuel
+* Extensible
+* Bref (court/succinct)
 
-Soit : psc-script-test-sandbox ou smt-ontostream
+ - Acronyme en début de nom pour identifier l'équipe (Exemple : PSC pour ProSantéConnect, SMT pour Serveur Multi-Terminologies)
+ - Nom de l'application ou explication de l'application de façon 'signifiante" en évitant les acronymes pour cette partie.
+
+Par exemple :
+
+[produit/nom du projet]-[objet] e.g. FIG-partage-de-données-de-sante      
+[produit/nom du projet]-[objet]-[framework/langage] e.g. INT-archetype-java   
+
+Il faut également ajouter une description au projet pour que n'importe qui comprenne en une ligne quel est le but du projet.
 
 ## Exigences lors de la création d'un projet
 - Création d'un readme.md à la racine du projet qui décrit celui-ci.
