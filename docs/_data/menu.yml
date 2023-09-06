@@ -15,6 +15,9 @@ header:
       - page: Code de conduite
         url: /pages/docs/codedeconduite.html
         title: Code de conduite
+      - page: Bonnes pratiques
+        url: /pages/docs/bonnespratiques.html
+        title: Bonnes pratiques
   - title: Tableau de bord
     url: /pages/dashboard/indicateurs.html 
   - title: Site de l'ANS
