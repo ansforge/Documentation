@@ -10,6 +10,8 @@ C'est un service en ligne qui contient le code source de plusieurs projets de l'
 
 Dans tous les cas, vous pouvez demander de l'aide par email sur `ans-forge@esante.gouv.fr`
 
+Pour être ajouté à une équipe Github de l'ANS, vous pouvez remplir ce formulaire : [https://forms.office.com/e/Wzy2XUAEab](https://forms.office.com/e/Wzy2XUAEab)  
+
 ## Je crée un compte Github
 
 * Inscrivez-vous sur le site de Github : [https://github.com/join](https://github.com/join)
