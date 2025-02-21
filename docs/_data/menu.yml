@@ -18,6 +18,14 @@ header:
       - page: Bonnes pratiques
         url: /pages/docs/bonnespratiques.html
         title: Bonnes pratiques
+  - title : Communs numériques
+    subfolderitems:
+      - page: Généralités
+        url: /pages/digital-commons/general.html
+      - page: Par catégorie
+        url: /pages/digital-commons/categories.html
+      - page: Par ordre alphabétique
+        url: /pages/digital-commons/alphabet.html
   - title: Tableau de bord
     url: /pages/dashboard/indicateurs.html 
   - title: Site de l'ANS
