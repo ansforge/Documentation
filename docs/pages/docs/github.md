@@ -22,7 +22,7 @@ Pour être ajouté à une équipe Github de l'ANS, vous pouvez remplir ce formul
 * Pour améliorer la sécurité, vous devez activer l'authentification double facteur
   * Aller sur la page [https://github.com/settings/security](https://github.com/settings/security)
   * Dans la section "Two-factor authentication"
-  * Faite "Enable two-factor authentication"
+  * Cliquer sur "Enable two-factor authentication"
 
 ![](../../assets/images/two-factor.png)
 
